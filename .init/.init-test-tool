@@ -1,0 +1,4 @@
+{
+    "command": "mysql -h localhost -u appuser -pdbuser123 -e \"SELECT VERSION()\"",
+    "working_directory": "/home/kavia/workspace/code-generation/elegant-tailor-studio-website-152337-152364/tailor_studio_database"
+}
